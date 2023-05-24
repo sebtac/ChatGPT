@@ -2,7 +2,8 @@
 
 - this is based on https://gitlab.com/nanuchi/python-automation-chatgpt
 - works perfectly with model: "text-davinci-003"
-- tried to work with newer models and code-generation specific ones with no success (error 400); sth about wrong api calls, requires more detailed review of the API docs - TBexplored
+- "gpt-3.5-turbo" needs different request_data and API_ENDPOINT -- implemented only in .ipynb!!!
+- "code-davinci-002" is supposed to be tailered toward code generation but seems to be depreciated now and API calls fail
  
 ## This is an accompanying project of YouTube video about Python automation with ChatGPT
 
