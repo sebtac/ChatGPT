@@ -1,4 +1,4 @@
-##SEBTAC: GPT Code Generation:
+## SEBTAC: GPT Code Generation:
 
 - this is based on https://gitlab.com/nanuchi/python-automation-chatgpt
 - works perfectly with model: "text-davinci-003"
